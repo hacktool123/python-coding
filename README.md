@@ -1,2 +1,2 @@
 # python-coding
-this is the best place to do coding
+this is the best place to do programming
